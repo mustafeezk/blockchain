@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\6TH_SEM\\BLOCKCHAIN\\mini\\my-smart-contract-project\\contracts\\AcademicCertificate.sol": {
+      "lastModificationDate": 1744765547724,
+      "contentHash": "e48d8cd8aca60461c8562014a77a7a17",
+      "sourceName": "contracts/AcademicCertificate.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "AcademicCertificate"
+      ]
+    },
+    "E:\\6TH_SEM\\BLOCKCHAIN\\mini\\my-smart-contract-project\\contracts\\ResearchDataRegistry.sol": {
+      "lastModificationDate": 1744765621145,
+      "contentHash": "1ff2278f5e606288be6f84a4d46f343b",
+      "sourceName": "contracts/ResearchDataRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "ResearchDataRegistry"
+      ]
+    }
+  }
+}
